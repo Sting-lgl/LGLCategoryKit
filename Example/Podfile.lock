@@ -1,0 +1,16 @@
+PODS:
+  - LGLCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - LGLCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LGLCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LGLCategoryKit: 7f0c0d475bf9794e8309281a371c5c4070571d76
+
+PODFILE CHECKSUM: a8d356359398eaeb55f5ae0446cca428e40d367f
+
+COCOAPODS: 1.5.3
